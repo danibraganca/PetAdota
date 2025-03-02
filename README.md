@@ -6,3 +6,6 @@ Esta seção descreve a integração com a API de cães, permitindo obter imagen
 
 ## Integração com a Cat API
 Esta seção descreve a integração com a API de gatos, permitindo obter imagens aleatórias de gatos.
+
+# IaC
+Contém códigos para criação da infraestura via Terraform (storage e vm) e de provisionamento de servidor web e de banco de dados em Ansible.
